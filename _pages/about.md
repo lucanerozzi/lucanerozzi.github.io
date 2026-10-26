@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Operations Research. My current work focuses on the Split Delivery Vehicle Routing Problem (SDVRP) and the development of Branch & Cut algorithms using Julia.
+I am a Postdoctorant in Operations Research. My current work focuses on the Split Delivery Vehicle Routing Problem (SDVRP) and the development of Branch & Cut algorithms using Julia.
 
 **Research interests**
 - Operations Research
