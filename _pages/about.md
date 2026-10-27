@@ -7,16 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher jointly affiliated with [ITAP](https://itap.montpellier.hub.inrae.fr/) ([Institut Agro Montpellier](https://www.institut-agro-montpellier.fr/)) and [Fruition Sciences](https://fruitionsciences.com/en/home). My research bridges theoretical Operations Research and real-world agricultural challenges, translating complex biological and operational constraints into tractable optimization problems.
+I am a postdoctoral researcher jointly affiliated with [ITAP](https://itap.montpellier.hub.inrae.fr/) ([Institut Agro Montpellier](https://www.institut-agro-montpellier.fr/)) and [Fruition Sciences](https://fruitionsciences.com/en/home). My research focuses on Operations Research and mathematical optimization applied to agriculture. I specialize in bridging theoretical models with real-world industry applications, translating complex operational and biological constraints into tractable optimization frameworks.
 
-Currently, my work focuses on three main areas: **crop planning scheduling** under European policies, **fertilization logistics** (modeled as a Vehicle Routing Problem to minimize tractor travel distance), and **irrigation scheduling** in viticulture, balancing reservoir capacities, water pumps, and workforce limits.
+Currently, I am developing decision-support models for :
+- **Crop Planning:** Designing optimal crop rotation strategies that maximize profitability while strictly satisfying biological constraints and European agricultural policies.
+- **Fertilization Logistics:** Modeling field fertilization as a Vehicle Routing Problem (VRP) to optimize the routing of tractor fleets, minimizing total travel distance and operational costs.
+- **Viticulture Irrigation:** Formulating scheduling models for manual and automated irrigation systems, balancing constraints on reservoir, pump, and workforce availability.
 
-Previously, I earned my PhD in Operations Research at the [University of Siena](https://www.diism.unisi.it/it/phdies) in a project co-funded by [Barilla S.p.A.](https://www.barilla.com/global), following a Master's degree in Management Engineering.
+Previously, I earned a PhD in Operations Research from the [University of Siena](https://www.diism.unisi.it/it/phdies) (under the supervision of [Paolo Detti](https://www3.diism.unisi.it/~detti/)) in an industrial partnership with [Barilla S.p.A.](https://www.barilla.com/global), following an MSc in Management Engineering.
 
-**Methodological interests**
+**Core Methodologies**
 - Integer Linear Programming (ILP)
-- Graph network flow modeling
-- Column generation
-- Branch & Cut
+- Graph Network Flow Modeling
+- Column Generation & Branch & Cut
 - Dynamic Programming
 - Metaheuristics
