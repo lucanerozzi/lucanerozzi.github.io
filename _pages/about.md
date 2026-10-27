@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher jointly affiliated with [ITAP](https://itap.montpellier.hub.inrae.fr/) ([Institut Agro Montpellier](https://www.institut-agro-montpellier.fr/) and [Fruition Sciences](https://fruitionsciences.com/en/home). My research bridges theoretical Operations Research and real-world agricultural challenges, translating complex biological and operational constraints into tractable optimization problems.
+I am a postdoctoral researcher jointly affiliated with [ITAP](https://itap.montpellier.hub.inrae.fr/) ([Institut Agro Montpellier](https://www.institut-agro-montpellier.fr/)) and [Fruition Sciences](https://fruitionsciences.com/en/home). My research bridges theoretical Operations Research and real-world agricultural challenges, translating complex biological and operational constraints into tractable optimization problems.
 
 Currently, my work focuses on three main areas: **crop planning scheduling** under European policies, **fertilization logistics** (modeled as a Vehicle Routing Problem to minimize tractor travel distance), and **irrigation scheduling** in viticulture, balancing reservoir capacities, water pumps, and workforce limits.
 
