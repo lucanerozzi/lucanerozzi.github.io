@@ -1,0 +1,12 @@
+---
+title: "A Heuristic Approach for Sustainable Crop Rotation Planning"
+collection: publications
+category: conferences
+permalink: /publication/2026-10-27-heuristic-approach
+excerpt: 'This work addresses a crop planning problem in agriculture, subject to rotation constraints from rules both public policies and private sustainability programs.'
+date: 2026-10-27
+venue: 'AIRO Springer Series'
+paperurl: ''
+citation: 'Nerozzi, L., Benini, M., Detti, P., Blasi, E., Cappella, M. T. (2026). &quot;A Heuristic Approach for Sustainable Crop Rotation Planning.&quot; <i>AIRO Springer Series</i>.'
+---
+This work addresses a crop planning problem in agriculture, subject to rotation constraints from rules both public policies (e.g., the European Union's Common Agricultural Policy) and private sustainability programs. Over a defined planning horizon with multiple seeding periods and farmland plots, the task is to allocate crops to each plot and period while ensuring compliance with crop rotation principles and sustainability requirements, with the goal of maximizing farmers' profit. To tackle this problem, we propose an efficient heuristic algorithm based on Dynamic Programming.
