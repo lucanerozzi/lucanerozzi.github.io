@@ -1,7 +1,7 @@
 ---
 title: "PhD Thesis: Optimization Models and Algorithms for Decision Making in Agriculture"
 collection: publications
-category: manuscripts
+category: Theses & Dissertations
 permalink: /publication/2026-03-19-phd-thesis
 excerpt: 'This thesis addresses two main optimization problems in agriculture: crop planning under sustainability constraints and vehicle routing for fertilization operations in viticulture.'
 date: 2026-03-19
