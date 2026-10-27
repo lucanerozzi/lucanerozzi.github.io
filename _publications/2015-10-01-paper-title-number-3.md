@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "PhD Thesis: Optimization Models and Algorithms for Decision Making in Agriculture"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2026-03-19-phd-thesis
+excerpt: 'This thesis addresses two main optimization problems in agriculture: crop planning under sustainability constraints and vehicle routing for fertilization operations in viticulture.'
+date: 2026-03-19
+venue: 'University of Siena'
+paperurl: 'https://tesidottorato.depositolegale.it/static/PDF/web/viewer.jsp'
+citation: 'Nerozzi, L. (2026). &quot;Optimization Models and Algorithms for Decision Making in Agriculture&quot;. <i>PhD Thesis, University of Siena</i>.'
 ---
+The core of this dissertation consists of two main chapters, each addressing an optimization problem in the agricultural domain. The first chapter investigates a crop planning problem in which crop rotations and sustainability-oriented constraints play a central role, aiming to maximize the farmer's profit over a multi-period planning horizon while ensuring agronomic feasibility. The second chapter addresses a single-vehicle Split Delivery Vehicle Routing Problem (SDVRP) with binary refilling arising in fertilization operations in viticulture, minimizing total travel distance while constructing an operational schedule.
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Overall, the research developed in this thesis follows a common workflow: understanding the decision context and the available data, formulating mathematical models that capture the key constraints and objectives, and designing and implementing algorithms that can effectively solve the resulting problems.
