@@ -7,4 +7,4 @@ venue: "SEIO Workshop and PhD school, Pompeu Fabra University"
 date: 2025-12-01
 location: "Barcelona, Spain"
 ---
-More information is available on the [official conference website](https://seio-transporte.github.io/workshop-2025-en/).
+[official conference website](https://seio-transporte.github.io/workshop-2025-en/).
