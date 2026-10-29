@@ -4,7 +4,7 @@ collection: talks
 type: "Conference talk"
 permalink: /talks/2025-alop-workshop
 venue: "ALOP – International Workshop on Algorithmic Optimization, Trier University"
-date: 2025-09
+date: 2025-09-01
 location: "Trier, Germany"
 ---
 [official conference website](https://alop.uni-trier.de/event/international-workshop-on-algorithmic-optimization/).
