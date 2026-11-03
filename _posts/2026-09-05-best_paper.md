@@ -9,4 +9,4 @@ tags:
 
 I am honored to share that our proceeding article "A Heuristic Approach for Sustainable Crop Rotation" received the Best Paper Award at 9th AIROYoung in Pavia, Italy.
 
-![Momento della premiazione](/images/foto_ODS.jpg)
+![Momento della premiazione](/images/foto_ODS.jpeg)
