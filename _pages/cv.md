@@ -15,7 +15,7 @@ Work experience
 | Dates | Role & Institution |
 |:---|:---|
 | **Apr 2026 – Present** | **Post-doctoral Researcher (ITAP - INRAE)** <br> *Fruition Sciences (Montpellier, France)* |
-| **Jan 2026 – Apr 2026** | **Research Fellow** <br> *University of Siena (Siena, Italy)* <br> Developed SDVRP models applied to viticulture. |
+| **Jan 2026 – Apr 2026** | **Research Fellow** <br> *University of Siena (Siena, Italy)* |
 | **Jan 2023 – Dec 2025** | **Ph.D. Student in Operations Research** <br> *University of Siena (Siena, Italy)* <br> Department of Engineering and Information Science. |
 | **Jan 2024 – Jul 2024** | **Optimization Methods Intern** <br> *Barilla (Parma, Italy)* |
 
