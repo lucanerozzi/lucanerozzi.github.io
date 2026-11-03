@@ -11,29 +11,22 @@ redirect_from:
 
 Work experience
 ======
-- **Post-doctoral Researcher (ITAP - INRAE)** | *Fruition Sciences* (Montpellier, France)
-  * April 2026 – Present
 
-- **Research Fellow** | *University of Siena* (Siena, Italy)
-  * Jan 2026 – April 2026
-
-- **Ph.D. Student in Operations Research** | *University of Siena* (Siena, Italy)
-  * Jan 2023 – Dec 2025
-  * Department of Engineering and Information Science
-
-- **Optimization Methods Intern** | *Barilla* (Parma, Italy)
-  * Jan 2024 – July 2024
+| Dates | Role & Institution |
+|:---|:---|
+| **Apr 2026 – Present** | **Post-doctoral Researcher (ITAP - INRAE)** <br> *Fruition Sciences (Montpellier, France)* |
+| **Jan 2026 – Apr 2026** | **Research Fellow** <br> *University of Siena (Siena, Italy)* <br> Developed SDVRP models applied to viticulture. |
+| **Jan 2023 – Dec 2025** | **Ph.D. Student in Operations Research** <br> *University of Siena (Siena, Italy)* <br> Department of Engineering and Information Science. |
+| **Jan 2024 – Jul 2024** | **Optimization Methods Intern** <br> *Barilla (Parma, Italy)* |
 
 Education
 ======
-- **Visiting Research Fellow** | *Institut Agro Montpellier* (Montpellier, France)
-  * Jan 2025 – July 2025
 
-- **M.S. in Management Engineering (LM-31)** | *University of Siena* (Siena, Italy)
-  * Oct 2020 – Dec 2022
-
-- **B.S. in Information Engineering (L-8)** | *University of Siena* (Siena, Italy)
-  * Oct 2015 – Dec 2019
+| Dates | Degree & Institution |
+|:---|:---|
+| **Jan 2025 – Jul 2025** | **Visiting Research Fellow** <br> *Institut Agro Montpellier (Montpellier, France)* |
+| **Oct 2020 – Dec 2022** | **M.S. in Management Engineering (LM-31)** <br> *University of Siena (Siena, Italy)* |
+| **Oct 2015 – Dec 2019** | **B.S. in Information Engineering (L-8)** <br> *University of Siena (Siena, Italy)* |
 
 Skills
 ======
