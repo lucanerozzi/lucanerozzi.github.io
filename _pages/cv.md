@@ -9,37 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Post-doctoral Researcher (ITAP - INRAE)** | *Fruition Sciences* (Montpellier, France)
+  * April 2026 – Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Research Fellow** | *University of Siena* (Siena, Italy)
+  * Jan 2026 – April 2026
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+- **Ph.D. Student in Operations Research** | *University of Siena* (Siena, Italy)
+  * Jan 2023 – Dec 2025
+  * Department of Engineering and Information Science
+
+- **Optimization Methods Intern** | *Barilla* (Parma, Italy)
+  * Jan 2024 – July 2024
+
+Education
+======
+- **Visiting Research Fellow** | *Institut Agro Montpellier* (Montpellier, France)
+  * Jan 2025 – July 2025
+
+- **M.S. in Management Engineering (LM-31)** | *University of Siena* (Siena, Italy)
+  * Oct 2020 – Dec 2022
+
+- **B.S. in Information Engineering (L-8)** | *University of Siena* (Siena, Italy)
+  * Oct 2015 – Dec 2019
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Programming Languages**: Python, Julia, C++, R
+- **Optimization Tools & Solvers**: Gurobi, OR-Tools, JuMP
+- **Software**: Microsoft Office Suite
+- **Languages**: 
+  * **Italian**: Native
+  * **French**: B2 – Developed and consolidated on the field thanks to my relocation to Montpellier and daily work in a French-speaking research environment.
+  * **English**: B2 – Full proficiency in international academic contexts, scientific paper writing, and global research collaborations.
 
 Publications
 ======
@@ -58,7 +62,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Personal Interests
 ======
-* Currently signed in to 43 different slack teams
+- **Music**: I am highly passionate about music and play the bass in **Canale**, a band currently touring across Italy. [Listen to our tracks here](https://canale.bandcamp.com/).
+- **Literature & Cinema**: Outside of my research work, I am an avid reader and a huge cinema enthusiast—passions I constantly nurture to keep my creativity alive.
