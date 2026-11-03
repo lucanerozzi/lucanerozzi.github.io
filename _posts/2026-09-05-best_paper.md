@@ -1,7 +1,7 @@
 ---
 title: "Best Paper Award at 9th AIROYoung"
 date: 2026-09-07
-permalink: /posts/2023/09/best-paper/
+permalink: /posts/2026/09/best-paper/
 tags:
   - awards
   - research
